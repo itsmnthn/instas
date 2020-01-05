@@ -14,7 +14,7 @@ from unfollow_protocol import unfollow_protocol
 
 bot = InstaBot(
     login="its_mnthn",
-    password="panasada",
+    password="password",
     like_per_day=1000,
     comments_per_day=400,
     tag_list=['nature', 'lifelong', 'romance','love','flower','amazing','waterreflaction','photography','sun','instanature','awesome','life','model'],
